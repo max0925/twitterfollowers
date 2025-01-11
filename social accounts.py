@@ -2,7 +2,7 @@ import requests
 import time
 
 # Define your Bearer Token (Twitter API v2 credential)
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAF8rwQEAAAAAOw2EXeWYqDlrEmhA2FZRmYMDnNM%3DywdOSqZnqyBYCNVdLJB54Hc2PG5aUz0uRAOClgOzZkDUgDpiyq'  # 请确保替换为实际的 Bearer Token
+
 
 # 获取单个用户名的粉丝数
 def fetch_follower_count(username):
